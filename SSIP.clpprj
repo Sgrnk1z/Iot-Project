@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\wamp64\www\SSIP\SSIP.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\wamp64\www\SSIP\dashBoard.php"/>
+  <file name="C:\wamp64\www\SSIP\dashCard.css"/>
+  <file name="C:\wamp64\www\SSIP\dashSidebar.css"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.3"/>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file crc="1575806180211" name="C:\wamp64\www\SSIP\loginstyle.css"/>
+  <file crc="1575892117369" name="C:\wamp64\www\SSIP\logIn.php"/>
+  <file crc="1575919444733" name="C:\wamp64\www\SSIP\graph.html"/>
+  <file crc="1571218895475" name="C:\wamp64\www\SSIP\demo.php"/>
+  <file crc="1575911144894" name="C:\wamp64\www\SSIP\dashSidebarMenuJs.js"/>
+  <file crc="1575916539247" name="C:\wamp64\www\SSIP\dashSidebar.css"/>
+  <file crc="1575919494440" name="C:\wamp64\www\SSIP\dashPowerConsumptionGraphJs.js"/>
+  <file crc="1575919478535" name="C:\wamp64\www\SSIP\dashPowerConsumptionGraph.css"/>
+  <file crc="1575957344343" name="C:\wamp64\www\SSIP\dashCard.css"/>
+  <file crc="1575957795229" name="C:\wamp64\www\SSIP\dashBoard.php"/>
+ </filescache>
+</project>

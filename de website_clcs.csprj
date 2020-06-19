@@ -1,0 +1,53 @@
+
+<codestructure version="1.5">
+<phptree>
+</phptree>
+<jstree>
+<treenode node="Affix;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.js;f6;2216;3;2229;;;;vpos;;v;;a;;r;;d42,2216;;b0,0;;m0;;eelement;;poptions;;p">
+</treenode>
+<treenode node="Alert;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.js;f6;94;3;96;;;;vpos;;v;;a;;r;;d30,94;;b0,0;;m0;;eel;;p">
+</treenode>
+<treenode node="Button;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.js;f6;188;3;192;;;;vpos;;v;;a;;r;;d43,188;;b0,0;;m0;;eelement;;poptions;;p">
+</treenode>
+<treenode node="Carousel;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.js;f6;309;3;324;;;;vpos;;v;;a;;r;;d45,309;;b0,0;;m0;;eelement;;poptions;;p">
+</treenode>
+<treenode node="Collapse;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.js;f6;547;3;561;;;;vpos;;v;;a;;r;;d45,547;;b0,0;;m0;;eelement;;poptions;;p">
+</treenode>
+<treenode node="Dropdown;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.js;f6;761;3;763;;;;vpos;;v;;a;;r;;d36,761;;b0,0;;m0;;eelement;;p">
+</treenode>
+<treenode node="Modal;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.js;f6;925;3;943;;;;vpos;;v;;a;;r;;d42,925;;b0,0;;m0;;eelement;;poptions;;p">
+</treenode>
+<treenode node="Plugin;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.js;f0;141;3;2328;;;;vpos;;v;;a;;r;;d26,2319;;b0,0;;m0;;eoption;;poption;;poption;;poption;;poption;;poption;;prelatedTarget;;poption;;poption;;poption;;poption;;poption;;p">
+</treenode>
+<treenode node="Popover;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.js;f6;1778;3;1780;;;;vpos;;v;;a;;r;;d44,1778;;b0,0;;m0;;eelement;;poptions;;p">
+</treenode>
+<treenode node="ScrollSpy;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.js;f0;1887;3;1900;;;;vpos;;v;;a;;r;;d39,1887;;b0,0;;m0;;eelement;;poptions;;p">
+</treenode>
+<treenode node="Tab;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.js;f6;2060;3;2064;;;;vpos;;v;;a;;r;;d31,2060;;b0,0;;m0;;eelement;;p">
+</treenode>
+<treenode node="Tooltip;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.js;f6;1264;3;1274;;;;vpos;;v;;a;;r;;d44,1264;;b0,0;;m0;;eelement;;poptions;;p">
+</treenode>
+<treenode node="b;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.min.js;f318;5;2437;6;;;;vpos;;v;;a;;r;;d2282,6;;b0,0;;m0;;eb;;pb;;pb;;pb;;pb;;pb;;pd;;pb;;pb;;pc;;pd;;pb;;pb;;p">
+</treenode>
+<treenode node="c;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.min.js;f1226;5;2769;6;;;;vposString;;v;;a;;r;;d2456,6;;b0,0;;m0;;eb;;pd;;pb;;pc;;pb;;pc;;pb;;pc;;pa;;pb;;pa;;pb;;pc;;pb;;pb;;pd;;p">
+</treenode>
+<treenode node="clearMenus;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.js;f0;780;3;799;;;;vpos;;v;;a;;r;;d25,780;;b0,0;;m0;;ee;;p">
+</treenode>
+<treenode node="clickHandler;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.js;f6;501;3;2193;;;;vpos;;v;;a;;r;;d34,2190;;b0,0;;m0;;ee;;pe;;p">
+</treenode>
+<treenode node="d;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.min.js;f1253;5;11985;5;;;;vpos;;v;;a;;r;;d11844,5;;b0,0;;m0;;eb;;pb;;pc;;pb;;p">
+</treenode>
+<treenode node="e;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.min.js;f1801;5;2116;6;;;;vposString;;v;;a;;r;;d2073,6;;b0,0;;m0;;ec;;pc;;p">
+</treenode>
+<treenode node="g;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.min.js;f12041;5;12096;5;;;;vpos;;v;;a;;r;;d12054,5;;b0,0;;m0;;eb;;p">
+</treenode>
+<treenode node="getParent;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.js;f0;767;3;778;;;;vpos;;v;;a;;r;;d28,767;;b0,0;;m0;;ethis;;p">
+</treenode>
+<treenode node="getTargetFromTrigger;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.js;f0;688;3;694;;;;vpos;;v;;a;;r;;d42,688;;b0,0;;m0;;etrigger;;p">
+</treenode>
+<treenode node="googleTranslateElementInit;JS:Function Name;C:\wamp64\www\de website\crop.php;f0;23;3;26;;C:\wamp64\www\de website\demo.php;f0;28;17;31;;;;vpos;;v;;a;;r;;d16,29;;b0,0;;m0;;e">
+</treenode>
+<treenode node="transitionEnd;JS:Function Name;C:\wamp64\www\de website\bootstrap\js\bootstrap.js;f0;33;3;50;;;;vpos;;v;;a;;r;;d27,33;;b0,0;;m0;;e">
+</treenode>
+</jstree>
+</codestructure>

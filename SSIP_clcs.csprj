@@ -1,0 +1,13 @@
+
+<codestructure version="1.7.1">
+<phptree>
+</phptree>
+<jstree>
+<treenode node="googleTranslateElementInit;JS:Function Name;C:\wamp64\www\SSIP\demo.php;f0;28;17;31;;;;vpos;;v;;a;;r;;d16,29;;b0,0;;m0;;e">
+<treenode node="google;JS:JS Var Name;C:\wamp64\www\SSIP\demo.php;f21;30;27;30;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="pageLanguage;JS:JS Var Name;C:\wamp64\www\SSIP\demo.php;f56;30;68;30;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+</jstree>
+</codestructure>
